@@ -6,7 +6,7 @@ Permettre une gestion sécurisée des postes à distance sans dépendre de servi
 ## 🛠️ Technologies
 - RustDesk
 - Docker
-- Linux (Ubuntu)
+- Linux (AlmaLinux , CentOS, Debian)
 - Nginx (reverse proxy)
 - Port forwarding
 
